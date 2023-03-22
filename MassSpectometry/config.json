@@ -15,7 +15,7 @@
     "min": 1,
     "max": 10
   },
-  "solutions": "1000",
+  "solutions": "100",
   "number_of_execution_scripts": "0",
   "number_of_generated_graphs": "10",
   "debug_mode": "true",

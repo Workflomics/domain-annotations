@@ -1,0 +1,11 @@
+[
+    "biotools:raw2mzdb"
+	,"biotools:SearchGUI"
+    ,"biotools:sdrf-pipelines"
+    ,"biotools:MaxQuant"
+    ,"biotools:ThermoRawFileParser"
+    ,"biotools:Comet"
+    ,"biotools:PeptideProphet"
+    ,"biotools:ProteinProphet"
+    ,"biotools:StPeter"
+]

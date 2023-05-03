@@ -1,6 +1,6 @@
 [
     "biotools:raw2mzdb"
-	,"biotools:SearchGUI"
+	,"biotools:msqrob"
     ,"biotools:sdrf-pipelines"
     ,"biotools:MaxQuant"
     ,"biotools:ThermoRawFileParser"

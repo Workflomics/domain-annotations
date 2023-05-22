@@ -153,7 +153,7 @@
             "data_0006": ["http://edamontology.org/data_0943"]
         },{
             "format_1915": ["http://edamontology.org/format_1929"],
-            "data_0006": ["http://edamontology.org/data_0863"]
+            "data_0006": ["http://edamontology.org/data_2976"]
         }],
         "taxonomyOperations": ["http://edamontology.org/operation_3646"],
         "label": "Comet",
@@ -185,7 +185,6 @@
     {
         "outputs": [{
             "format_1915": [
-                "http://edamontology.org/format_2332",
                 "http://edamontology.org/format_3747",
                 "http://edamontology.org/format_2331",
                 "http://edamontology.org/format_3468"

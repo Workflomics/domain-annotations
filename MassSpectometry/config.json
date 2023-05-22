@@ -1,5 +1,5 @@
 {
-  "ontology_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/MassSpectometry/edam.owl",
+  "ontology_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/edam.owl",
   "ontologyPrefixIRI": "http://edamontology.org/",
   "toolsTaxonomyRoot": "operation_0004",
   "dataDimensionsTaxonomyRoots": [

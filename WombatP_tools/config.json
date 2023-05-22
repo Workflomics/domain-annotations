@@ -1,12 +1,12 @@
 {
-  "ontology_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/WombatP_tools/edam.owl",
+  "ontology_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/edam.owl",
   "ontologyPrefixIRI": "http://edamontology.org/",
   "toolsTaxonomyRoot": "operation_0004",
   "dataDimensionsTaxonomyRoots": [
     "data_0006",
     "format_1915"
   ],
-  "tool_annotations_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/WombatP_tools/bio.tools_fragment.json",
+  "tool_annotations_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/WombatP_tools/bio.tools.json",
   "strict_tool_annotations": "true",
   "constraints_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/WombatP_tools/constraints.json",
   "timeout_sec": "120",

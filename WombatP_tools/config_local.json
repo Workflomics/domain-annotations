@@ -7,7 +7,7 @@
     "format_1915"
   ],
   "tool_annotations_path": "/Users/vedran/git/Workflomics_repo/domain-annotations/WombatP_tools/bio.tools.json",
-  "strict_tool_annotations": "false",
+  "strict_tool_annotations": "true",
   "constraints_path": "/Users/vedran/git/Workflomics_repo/domain-annotations/WombatP_tools/constraints.json",
   "timeout_sec": "120",
   "solutions_dir_path": "/Users/vedran/git/Workflomics_repo/domain-annotations/WombatP_tools/",
@@ -25,25 +25,17 @@
   "inputs": [
     {
       "data_0006": [
-        "data_0006"
+        "data_0943"
       ],
       "format_1915": [
-        "format_1915"
+        "format_3654"
       ]
     }, {
       "data_0006": [
-        "data_0006"
+        "data_2976"
       ],
       "format_1915": [
-        "format_1915"
-      ]
-    },
-    {
-      "data_0006": [
-        "data_0006"
-      ],
-      "format_1915": [
-        "format_1915"
+        "format_1929"
       ]
     }
   ],

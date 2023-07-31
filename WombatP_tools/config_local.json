@@ -16,8 +16,9 @@
     "max": 4
   },
   "solutions": "10",
-  "number_of_execution_scripts": "10",
+  "number_of_execution_scripts": "0",
   "number_of_generated_graphs": "10",
+  "number_of_cwl_files": "10",
   "debug_mode": "false",
   "use_workflow_input": "all",
   "use_all_generated_data": "all",
@@ -30,7 +31,8 @@
       "format_1915": [
         "format_3244"
       ]
-    }, {
+    },
+    {
       "data_0006": [
         "data_2976"
       ],

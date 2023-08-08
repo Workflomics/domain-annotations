@@ -8,7 +8,6 @@
   ],
   "tool_annotations_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/WombatP_tools/bio.tools.json",
   "strict_tool_annotations": "true",
-  "constraints_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/WombatP_tools/constraints.json",
   "timeout_sec": "120",
   "solutions_dir_path": ".",
   "solution_length": {

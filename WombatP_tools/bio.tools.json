@@ -73,9 +73,15 @@
             "outputs": [
                 {
                     "format_1915": [
-                        "http://edamontology.org/format_3747",
-                        "http://edamontology.org/format_2331",
-                        "http://edamontology.org/format_3468"
+                        "http://edamontology.org/format_3747"
+                    ],
+                    "data_0006": [
+                        "http://edamontology.org/data_0945"
+                    ]
+                },
+                {
+                    "format_1915": [
+                        "http://edamontology.org/data_0916"
                     ],
                     "data_0006": [
                         "http://edamontology.org/data_0945"

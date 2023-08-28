@@ -287,14 +287,6 @@
                     "data_0006": [
                         "http://edamontology.org/data_3753"
                     ]
-                },
-                {
-                    "format_1915": [
-                        "http://edamontology.org/format_2330"
-                    ],
-                    "data_0006": [
-                        "http://edamontology.org/data_2872"
-                    ]
                 }
             ],
             "inputs": [

@@ -1,11 +1,13 @@
 [
-    "biotools:raw2mzdb"
-    ,"biotools:msqrob"
-    ,"biotools:sdrf-pipelines"
-    ,"biotools:MaxQuant"
-    ,"biotools:ThermoRawFileParser"
-    ,"biotools:Comet"
-    ,"biotools:PeptideProphet"
-    ,"biotools:ProteinProphet"
-    ,"biotools:StPeter"
+    "biotools:Comet",
+    "biotools:PeptideProphet",
+    "biotools:ProteinProphet",
+    "biotools:StPeter",
+    "biotools:mzRecal",
+    "biotools:idconvert",
+    "biotools:msconvert",
+    "biotools:GOEnrichment",
+    "biotools:gProfiler",
+    "biotools:XTandem",
+    "protXml2IdList"
 ]

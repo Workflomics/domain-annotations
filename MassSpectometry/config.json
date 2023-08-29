@@ -6,7 +6,7 @@
     "data_0006",
     "format_1915"
   ],
-  "tool_annotations_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/MassSpectometry/bio.tools_fragment.json",
+  "tool_annotations_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/WombatP_tools/bio.tools.json",
   "strict_tool_annotations": "true",
   "constraints_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/MassSpectometry/constraints.json",
   "timeout_sec": "120",
@@ -20,7 +20,7 @@
   "number_of_generated_graphs": "10",
   "debug_mode": "true",
   "use_workflow_input": "all",
-  "use_all_generated_data": "all",
+  "use_all_generated_data": "one",
   "tool_seq_repeat": "false",
   "inputs": [
     {

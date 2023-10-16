@@ -7,12 +7,13 @@
     "format_1915"
   ],
   "tool_annotations_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/WombatP_tools/bio.tools.json",
+  "constraints_path": "https://raw.githubusercontent.com/Workflomics/domain-annotations/main/WombatP_tools/constraints.json",
   "strict_tool_annotations": "true",
   "timeout_sec": "120",
   "solutions_dir_path": ".",
   "solution_length": {
     "min": 3,
-    "max": 4
+    "max": 10
   },
   "solutions": "10",
   "number_of_execution_scripts": "0",
@@ -38,22 +39,6 @@
       "format_1915": [
         "format_1929"
       ]
-    },
-    {
-      "data_0006": [
-        "data_0582"
-      ],
-      "format_1915": [
-        "format_2196"
-      ]
-    },
-    {
-      "data_0006": [
-        "data_0916"
-      ],
-      "format_1915": [
-        "format_3475"
-      ]
     }
   ],
   "outputs": [
@@ -62,7 +47,8 @@
         "data_0006"
       ],
       "format_1915": [
-        "format_3747"
+        "format_3747",
+        "format_2330"
       ]
     }
   ]

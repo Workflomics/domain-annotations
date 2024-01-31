@@ -43,7 +43,7 @@
                 "http://edamontology.org/operation_3646"
             ],
             "label": "Comet",
-            "id": "comet1"
+            "id": "Comet"
         },
         {
             "outputs": [
@@ -97,7 +97,7 @@
                 "http://edamontology.org/operation_3649"
             ],
             "label": "PeptideProphet",
-            "id": "peptideprophet1"
+            "id": "PeptideProphet"
         },
         {
             "outputs": [
@@ -144,7 +144,7 @@
                 "http://edamontology.org/operation_3695"
             ],
             "label": "ProteinProphet",
-            "id": "proteinprophet1"
+            "id": "ProteinProphet"
         },
         {
             "outputs": [
@@ -190,7 +190,7 @@
                 "http://edamontology.org/operation_3634"
             ],
             "label": "StPeter",
-            "id": "stpeter1"
+            "id": "StPeter"
         },
         {
             "outputs": [
@@ -231,8 +231,7 @@
             "outputs": [
                 {
                     "format_1915": [
-                        "http://edamontology.org/format_3655",
-                        "http://edamontology.org/format_3247"
+                        "http://edamontology.org/format_3655"
                     ],
                     "data_0006": [
                         "http://edamontology.org/data_0945"
@@ -242,8 +241,6 @@
             "inputs": [
                 {
                     "format_1915": [
-                        "http://edamontology.org/format_3747",
-                        "http://edamontology.org/format_3655",
                         "http://edamontology.org/format_3247"
                     ],
                     "data_0006": [
@@ -257,7 +254,36 @@
                 "http://edamontology.org/operation_3434"
             ],
             "label": "idconvert",
-            "id": "idconvert1"
+            "id": "idconvert_to_mzIdentML"
+        },
+        {
+            "outputs": [
+                {
+                    "format_1915": [
+                        "http://edamontology.org/format_3247"
+                    ],
+                    "data_0006": [
+                        "http://edamontology.org/data_0945"
+                    ]
+                }
+            ],
+            "inputs": [
+                {
+                    "format_1915": [
+                        "http://edamontology.org/format_3655"
+                    ],
+                    "data_0006": [
+                        "http://edamontology.org/data_0945"
+                    ]
+                }
+            ],
+            "taxonomyOperations": [
+                "http://edamontology.org/operation_0335",
+                "http://edamontology.org/operation_1812",
+                "http://edamontology.org/operation_3434"
+            ],
+            "label": "idconvert",
+            "id": "idconvert_to_pepXML"
         },
         {
             "outputs": [
@@ -289,7 +315,7 @@
                 "http://edamontology.org/operation_0335"
             ],
             "label": "msConvert",
-            "id": "msconvert1"
+            "id": "msConvert"
         },
         {
             "outputs": [
@@ -334,7 +360,7 @@
                 "http://edamontology.org/operation_2436"
             ],
             "label": "GOEnrichment",
-            "id": "goenrichment1"
+            "id": "GOEnrichment"
         },
         {
             "outputs": [
@@ -366,7 +392,7 @@
                 "http://edamontology.org/operation_3672"
             ],
             "label": "gProfiler",
-            "id": "gprofiler1"
+            "id": "gProfiler"
         },
         {
             "outputs": [
@@ -411,7 +437,7 @@
                 "http://edamontology.org/operation_3767"
             ],
             "label": "XTandem",
-            "id": "xtandem1"
+            "id": "XTandem"
         },
         {
             "outputs": [
@@ -480,7 +506,7 @@
                 
             ],
             "label": "MS_Amanda",
-            "id": "msamanda"
+            "id": "MS_Amanda"
         },
         {
             "outputs": [
@@ -518,7 +544,7 @@
                 "http://edamontology.org/operation_3801"
             ],
             "label": "MSFragger",
-            "id": "msfragger"
+            "id": "MSFragger"
         }
     ]
 }

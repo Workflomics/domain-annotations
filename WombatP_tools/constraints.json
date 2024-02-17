@@ -5,12 +5,12 @@
             "parameters": [
                 {
                     "operation_0004": [
-                        "peptideprophet1"
+                        "PeptideProphet"
                     ]
                 },
                 {
                     "operation_0004": [
-                        "peptideprophet1"
+                        "PeptideProphet"
                     ]
                 }
             ]
@@ -35,12 +35,12 @@
             "parameters": [
                 {
                     "operation_0004": [
-                        "peptideprophet1"
+                        "PeptideProphet"
                     ]
                 },
                 {
                     "operation_0004": [
-                        "proteinprophet1"
+                        "ProteinProphet"
                     ]
                 }
             ]

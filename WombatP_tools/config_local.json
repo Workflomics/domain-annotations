@@ -10,7 +10,7 @@
   "strict_tool_annotations": "true",
   "constraints_path": "/Users/vedran/git/Workflomics_repo/domain-annotations/WombatP_tools/constraints.json",
   "timeout_sec": "120",
-  "solutions_dir_path": "/Users/vedran/git/Workflomics_repo/domain-annotations/WombatP_tools/",
+  "solutions_dir_path": ".",
   "solution_length": {
     "min": 3,
     "max": 10

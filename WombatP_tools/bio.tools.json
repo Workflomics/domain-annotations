@@ -375,12 +375,12 @@
             "outputs": [
                 {
                     "format_1915": [
-                        "http://edamontology.org/format_3603",
-                        "http://edamontology.org/format_2330",
-                        "http://edamontology.org/format_3468"
+                        "http://edamontology.org/format_3464"
                     ],
                     "data_0006": [
-                        "http://edamontology.org/data_3753"
+                        "http://edamontology.org/data_3753",
+                        "http://edamontology.org/data_3754",
+                        "http://edamontology.org/data_3953"
                     ]
                 }
             ],

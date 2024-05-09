@@ -259,8 +259,8 @@
                 "http://edamontology.org/operation_3434"
             ],
             
-            "implementation" : { "cwl_reference" : "https://raw.githubusercontent.com/Workflomics/containers/main/cwl/tools/idconvert/idconvert_to_mzIdentML.cwl"} , "label": "idconvert",
-            "id": "idconvert_to_mzIdentML"
+            "implementation" : { "cwl_reference" : "https://raw.githubusercontent.com/Workflomics/containers/main/cwl/tools/idconvert/idconvert_to_pepXML.cwl"} , "label": "idconvert",
+            "id": "idconvert_to_pepXML"
         },
         {
             "outputs": [
@@ -289,8 +289,8 @@
                 "http://edamontology.org/operation_3434"
             ],
             
-            "implementation" : { "cwl_reference" : "https://raw.githubusercontent.com/Workflomics/containers/main/cwl/tools/idconvert/idconvert_to_pepXML.cwl"} , "label": "idconvert",
-            "id": "idconvert_to_pepXML"
+            "implementation" : { "cwl_reference" : "https://raw.githubusercontent.com/Workflomics/containers/main/cwl/tools/idconvert/idconvert_to_mzIdentML.cwl"} , "label": "idconvert",
+            "id": "idconvert_to_mzIdentML"
         },
         {
             "outputs": [

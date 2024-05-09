@@ -43,13 +43,12 @@
   ],
   "outputs": [
     {
-      "data_0006": [
-        "data_0006"
-      ],
-      "format_1915": [
-        "format_3747",
-        "format_2330"
-      ]
-    }
+            "data_0006": [
+                "data_3754"
+            ],
+            "format_1915": [
+                "format_3464"
+            ]
+        }
   ]
 }

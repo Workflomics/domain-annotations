@@ -16,7 +16,7 @@
   "number_of_execution_scripts": "0",
   "number_of_generated_graphs": "10",
   "number_of_cwl_files": "10",
-  "debug_mode": "false",
+  "debug_mode": "true",
   "use_workflow_input": "all",
   "use_all_generated_data": "one",
   "tool_seq_repeat": "false",
@@ -28,20 +28,12 @@
     {
       "data_0006": ["data_2976"],
       "format_1915": ["format_1929"]
-    },
-    {
-      "format_1915": ["format_2196"],
-      "data_0006": ["data_0582"]
-    },
-    {
-      "format_1915": ["format_3475"],
-      "data_0006": ["data_0916"]
     }
   ],
   "outputs": [
     {
-      "data_0006": ["data_3754"],
-      "format_1915": ["format_3464"]
+      "data_0006": ["data_0006"],
+      "format_1915": ["format_1915"]
     }
   ]
 }

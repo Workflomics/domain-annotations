@@ -28,19 +28,11 @@
     {
       "data_0006": ["data_2976"],
       "format_1915": ["format_1929"]
-    },
-    {
-      "format_1915": ["format_2196"],
-      "data_0006": ["data_0582"]
-    },
-    {
-      "format_1915": ["format_3475"],
-      "data_0006": ["data_0916"]
     }
   ],
   "outputs": [
     {
-      "data_0006": ["data_3754"],
+      "data_0006": ["data_3753"],
       "format_1915": ["format_3464"]
     }
   ]

@@ -1,5 +1,32 @@
 {"functions": [
     {
+        "outputs": [
+            {
+                "data_0006": ["data_3494"],
+                "format_1915": ["format_2182"]
+              },
+              {
+                "data_0006": ["data_3494"],
+                "format_1915": ["format_2572"]
+              },
+              {
+                "data_0006": ["data_3495"],
+                "format_1915": ["format_2182"]
+              },
+              {
+                "data_0006": ["data_3495"],
+                "format_1915": ["format_2572"]
+              }
+        ],
+        "inputs": [
+        ],
+        "taxonomyOperations": [
+            "http://edamontology.org/operation_3438"
+        ],
+        "label": "temp_temp",
+        "id": "temp_temp"
+    },
+    {
         "outputs": [{
             "format_1915": [
                 "http://edamontology.org/format_3655",
